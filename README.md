@@ -7,7 +7,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=bangladesh&logoColor=white)
 
-I'm a passionate **Full-Stack Web Developer** specializing in **PHP, Laravel, and CodeIgniter**, with frontend experience in **JavaScript, Vue.js, jQuery, and AJAX**. I build **scalable backend systems, RESTful & GraphQL APIs**, and full-stack web applications following modern development practices. I enjoy converting business logic into elegant, maintainable code and solving real-world problems through technology.
+I'm a passionate **Full-Stack Software Developer** specializing in **PHP, Laravel, and CodeIgniter**, with frontend experience in **JavaScript, Vue.js, jQuery, and AJAX**. I build **scalable backend systems, RESTful & GraphQL APIs**, and full-stack web applications following modern development practices. I enjoy converting business logic into elegant, maintainable code and solving real-world problems through technology.
 
 ---
 
@@ -41,15 +41,18 @@ I'm a passionate **Full-Stack Web Developer** specializing in **PHP, Laravel, an
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarekul-islam)  
-- ✉️ Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 🌐 Portfolio: *(Coming Soon)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarek-dev-s/)  
+- ✉️ Email: tanju18ctg@gmail.com)  
+- 🌐 Portfolio: (https://www.tareksofteng.com)
 
 ---
 
 ## 🔭 Currently Working On
 
+- A2I Centrall Billing System Over 36000+ Goverment Offices
+- Support & Development Envator Product are Sales ERP, Hospital Management, Issue Ecomerce 
 - Laravel-based POS & Inventory Management System  
+- SaaS Product Restorant Management
 - Diagnostic Management System (Backend + Frontend integration)
 
 ---
